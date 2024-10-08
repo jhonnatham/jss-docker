@@ -24,9 +24,6 @@ mv $PWD/backend/.exampleenv $PWD/backend/.env
 ```bash
 #!/bin/bash
 
-# Directorio raiz orquestador
-cd ..
-
 # Clone repository
 git clone https://github.com/jhonnatham/frontend.git
 ```
